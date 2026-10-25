@@ -1,0 +1,15 @@
+# Personal data - never commit
+settings.json
+backups/
+*.liveryswap_tmp/
+
+# Python / build output
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Kept local, not published
+fh6crypto.py
+retarget.py

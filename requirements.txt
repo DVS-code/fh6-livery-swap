@@ -1,0 +1,2 @@
+# Optional - the tool runs without it.
+Pillow>=10.0         # livery thumbnail preview
